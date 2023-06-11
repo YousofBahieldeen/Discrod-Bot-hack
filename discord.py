@@ -1,3 +1,4 @@
+print("This was all made by OmarM#4244")
 import os
 
 import discord
